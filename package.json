@@ -1,7 +1,7 @@
 {
   "name": "tps-atom-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A custom atom syntax with the colors of destination excellence for Tulsa Public Schools",
   "keywords": [
     "syntax",
